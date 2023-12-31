@@ -2,7 +2,8 @@
 
 The world of data engineering is ever-changing, with new tools and technologies emerging regularly. Building an effective analytics platform can be a daunting task, especially if you’re not familiar with all the tools available. How do you turn scattered, complex data into a model that drives insights and decision-making?
 In this project, I explored best practices such as data modeling, testing, documentation, and version control. I showed how to efficiently extract, load, and transform data into a unified, analytics-ready format. This is the construction of a robust data pipeline for a fictional e-commerce company, implementing best practices in data engineering.
-##Technlogies Explored
+
+## Technologies Explored
 1. BigQuery
 2. dbt
 3. Docker
