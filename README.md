@@ -1,7 +1,7 @@
 # End-to-End Data Engineering Project
 
-The world of data engineering is ever-changing, with new tools and technologies emerging on a regular basis. Building an effective analytics platform can be a daunting task, especially if you’re not familiar with all the tools available. How do you turn scattered, complex data into a model that drives insights and decision-making?
-In this project, I explored best practices such as data modeling, testing, documentation, and version control. I showed how to efficiently extract, load, and transform data into a unified, analytics-ready format. This is the construction of a robust data pipeline for a fictional e-commerce company, implemening best practices in data engineering.
+The world of data engineering is ever-changing, with new tools and technologies emerging regularly. Building an effective analytics platform can be a daunting task, especially if you’re not familiar with all the tools available. How do you turn scattered, complex data into a model that drives insights and decision-making?
+In this project, I explored best practices such as data modeling, testing, documentation, and version control. I showed how to efficiently extract, load, and transform data into a unified, analytics-ready format. This is the construction of a robust data pipeline for a fictional e-commerce company, implementing best practices in data engineering.
 
 
 
@@ -12,10 +12,10 @@ Ensure you have Python 3 installed. If not, you can download and install it from
 1. Fork the Repository:
     - Click the "Fork" button on the top right corner of this repository.
 2. Clone the repository:
-    - `git clone https://github.com/YOUR_USERNAME/end-to-end-data-engineering-project-4413618.git`
+    - `git clone https://github.com/YOUR_USERNAME/data-engineering.git`
     - Note: Replace YOUR_USERNAME with your GitHub username
 3. Navigate to the directory:
-    - `cd end-to-end-data-engineering-project-4413618`
+    - `cd data engineering`
 4. Set Up a Virtual Environment:
     - For Mac:
         - `python3 -m venv venv` 
